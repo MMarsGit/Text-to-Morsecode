@@ -23,8 +23,3 @@ The send_packet() method takes the parameters: websocket, destination, source an
 
 The destination and source are packed into a byte. A bitelength is specified and along with the checksum is also packed into a byte.
 All the bytes are then sent as a packet.
-
-# Completed tasks
-Task 1-3 have all been completed successfully. Task 4 has been attempted however the checksum does not seem to come out correctly. Never the less most of the compute_checksum function works correctly as it is the calculation of the checksum that does not come out correctly.
-
-# Examples of code 
