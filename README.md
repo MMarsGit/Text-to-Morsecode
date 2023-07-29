@@ -18,4 +18,4 @@ the main.py was designed for the remote server itself.
 Though it is not the primary focus of the project, the folder worksheet 3 contains a program to recieve, decode and send UDP packets.
 The UDP packets function as expected with a: source port, destination port, length and checksum, as well as the data itself.
 As with the morse decoder and encoder, the UDP packets program was designed to work with the remote server.
-
+![image](https://github.com/MMarsGit/Text-to-Morsecode/assets/70379279/1c1c83c0-4b55-42eb-a085-b2756c0f450e)
